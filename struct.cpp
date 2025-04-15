@@ -28,6 +28,3 @@ int main(){
     cout << "NAMA = " << mhs.nama << endl;
     cout << "ALAMAT = " << mhs.alamat << endl;
 }
-
-
-
