@@ -12,7 +12,6 @@ struct mahasiswa{
     detailAlamat alamat;
 };
    
-
 int main(){
     //membuat object struct mahasiswa
     mahasiswa mhs[2];
@@ -41,5 +40,4 @@ int main(){
         cout << "ALAMAT DESA = " << mhs[n].alamat.desa << endl;
         cout << "ALAMAT DESA = " << mhs[n].alamat.kota << endl; 
     }
-
 }

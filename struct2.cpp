@@ -33,4 +33,3 @@ int main(){
     cout << "ALAMAT DESA = " << mhs.alamat.desa << endl;
     cout << "ALAMAT DESA = " << mhs.alamat.kota << endl;    
 }
-
