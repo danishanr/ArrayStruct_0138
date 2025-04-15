@@ -28,5 +28,4 @@ int main(){
         cout << "Data ke-" << n+1 << endl;
         cout << "Data Mahasiswa = " << nama[n] << endl;
     }
-
 }
