@@ -33,5 +33,4 @@ int main(){
     cout << "NAMA = " << mhs.nama << endl;
     cout << "ALAMAT DESA = " << mhs.alamat.desa << endl;
     cout << "ALAMAT DESA = " << mhs.alamat.kota << endl; 
-    
 }
